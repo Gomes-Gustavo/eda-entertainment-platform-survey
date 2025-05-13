@@ -1,6 +1,6 @@
 # Unwind Platform Data Analysis
 
-This repository contains a comprehensive **data analysis** of a survey conducted for the Unwind platform, a digital application designed for organizing, rating, and sharing entertainment content such as movies, series, and games. The analysis follows best practices in exploratory data analysis (EDA) and provides insights to guide platform development decisions.
+This repository contains a comprehensive **data analysis** of a survey conducted for the Unwind platform, a digital entertainment platform in development designed for organizing, rating, and sharing entertainment content such as movies, series, and games. The analysis follows best practices in exploratory data analysis (EDA) and provides insights to guide platform development decisions.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Key objectives include:
 
 ## About Unwind
 
-Unwind is a digital entertainment platform concept in development by a member of the statistics project group that allows users to:
+Unwind is a digital entertainment platform in development by a member of the statistics project group that allows users to:
 - Organize and track consumption of movies, series, and games in one place
 - Create personalized shelves with ratings and bookmarks
 - Build thematic collections (e.g., Marvel content)

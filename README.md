@@ -40,7 +40,7 @@ Unwind is a digital entertainment platform in development by a member of the sta
 - **Source**: Original survey created and distributed by the project team using Google Forms
 - **Collection Period**: May 2025
 - **Sample Size**: 54 respondents
-- **Limitations**: The relatively small sample size collected over a short period affects generalizability of findings
+- ***Limitations**: The relatively small sample size collected over a short period affects generalizability of findings*
 
 The survey covered:
 - Demographic information (age, gender, marital status, education, location, occupation)
